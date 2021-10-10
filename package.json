@@ -1,0 +1,28 @@
+{
+    "name": "firefox-theme",
+    "displayName": "Firefox Theme",
+    "description": "An almost one-to-one recreation of Firefox's DevTools theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Firefox",
+        "Firefox DevTools",
+        "Firefox dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Firefox Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Firefox Dark-color-theme.json"
+            }
+        ]
+    }
+}

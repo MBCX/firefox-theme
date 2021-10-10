@@ -1905,6 +1905,13 @@
                 "fontStyle": "",
                 "foreground": "#86DE74"
             }
+        },
+        {
+            "name": "XML  tag property",
+            "scope": "entity.other.attribute-name.localname.xml",
+            "settings": {
+                "foreground": "#FF7DE9"
+            }
         }
     ],
     "colors": {

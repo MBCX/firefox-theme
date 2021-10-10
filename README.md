@@ -2,9 +2,7 @@
     <strong> Firefox DevTools Colour Theme</strong>
 </h1>
 A quite pleasing-to-look at theme. An almost one-to-one recreation of the theme found in Mozilla Firefox's developer tools.
-<br> <br>
-
-Intended for hours and hours of work. Try this theme yourself, and you'll never want to go back to other themes (at least I don't.)
+Intended to work for hours and hours. Try this theme yourself, and you'll never want to go back to other themes (at least I don't.)
 <br><br>
 <h3 align="center"> 
     <strong> And no, I won't be uploading the theme to their prespectives stores, 'cause I'm too lazy for that. <strong>

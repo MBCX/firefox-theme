@@ -2,9 +2,17 @@
     "name": "firefox-theme",
     "displayName": "Firefox Theme",
     "description": "An almost one-to-one recreation of Firefox's DevTools theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "MBCX",
     "engines": {
-        "vscode": "^1.61.0"
+        "vscode": "^1.31.0"
+    },
+    "author": {
+        "name": "MBCX"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MBCX/firefox-theme"
     },
     "categories": [
         "Themes"
@@ -21,7 +29,7 @@
             {
                 "label": "Firefox Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Firefox Dark-color-theme.json"
+                "path": "./themes/firefox-dark.json"
             }
         ]
     }

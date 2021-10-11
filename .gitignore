@@ -1,3 +1,9 @@
 node_modules
 *.vsix
 vscode/themes/vsc-extension-quickstart.md
+release/
+
+# Auto generated files by VS2019.
+bin
+obj
+.vs

@@ -45,7 +45,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="CustomTheme.vstheme">
+    <None Include="Firefox Dark.vstheme">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Firefox Light.vstheme">
       <SubType>Designer</SubType>
     </None>
     <None Include="source.extension.vsixmanifest">

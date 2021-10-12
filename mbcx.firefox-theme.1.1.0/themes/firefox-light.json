@@ -186,7 +186,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
-                "foreground": "#058b00"
+                "foreground": "#dd00a9"
             }
         },
         {
@@ -208,6 +208,41 @@
             "scope": "variable.other.constant",
             "settings": {
                 "foreground": "#8000d7"
+            }
+        },
+        {
+            "name": "JS constant null",
+            "scope": "constant.language.null.js",
+            "settings": {
+                "foreground": "#DD00A9"
+            }
+        },
+        {
+            "name": "JS other object properties",
+            "scope": "variable.other.object.property.js",
+            "settings": {
+                "foreground": "#058b00"
+            }
+        },
+        {
+            "name": "JS constant boolean",
+            "scope": "constant.language.boolean.false.js",
+            "settings": {
+                "foreground": "#dd00a9"
+            }
+        },
+        {
+            "name": "JS default functions",
+            "scope": "support.function.js",
+            "settings": {
+                "foreground": "#8000d7"
+            }
+        },
+        {
+            "name": "JS this keyword",
+            "scope": "variable.language.this.js",
+            "settings": {
+                "foreground": "#DD00A9"
             }
         },
         {
@@ -266,21 +301,21 @@
             "name": "operator logical",
             "scope": "keyword.operator.logical",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#dd00a9"
             }
         },
         {
             "name": "operator bitwise",
             "scope": "keyword.operator.bitwise",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#dd00a9"
             }
         },
         {
             "name": "operator channel",
             "scope": "keyword.operator.channel",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#dd00a9"
             }
         },
         {
@@ -294,7 +329,7 @@
             "name": "CSS/SCSS/LESS Operators",
             "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#dd00a9"
             }
         },
         {

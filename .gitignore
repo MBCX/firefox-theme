@@ -3,6 +3,4 @@ node_modules
 release/
 
 # Auto generated files by VS2019.
-bin
-obj
 .vs

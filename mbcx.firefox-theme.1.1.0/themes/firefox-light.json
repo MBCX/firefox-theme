@@ -357,7 +357,63 @@
             "name": "css property-name",
             "scope": "support.type.vendored.property-name.css",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#737373"
+            }
+        },
+        {
+            "name": "CSS property name",
+            "scope": "support.type.property-name.css",
+            "settings": {
+                "foreground": "#058b00"
+            }
+        },
+        {
+            "name": "CSS constant property value",
+            "scope": "support.constant.property-value.css",
+            "settings": {
+                "foreground": "#dd00a9"
+            }
+        },
+        {
+            "name": "CSS meta property value",
+            "scope": "meta.property-value.css, support.function.url.css, support.function.misc.css, support.function.timing-function.css, support.function.calc.css, support.function.transform.css",
+            "settings": {
+                "foreground": "#8000d7"
+            }
+        },
+        {
+            "name": "CSS id",
+            "scope": "entity.other.attribute-name.id.css",
+            "settings": {
+                "foreground": "#dd00a9"
+            }
+        },
+        {
+            "name": "CSS percentage",
+            "scope": "keyword.other.unit.percentage.css",
+            "settings": {
+                "foreground": "#003EAA"
+            }
+        },
+        {
+            "name": "CSS Variables",
+            "scope": "variable.argument.css, variable.css",
+            "settings": {
+                "foreground": "#0074e8"
+            }
+        },
+        {
+            "name": "CSS classes and tags",
+            "scope": "entity.other.attribute-name.class.css, entity.name.tag.css",
+            "settings": {
+                "foreground": "#0074e8"
+            }
+        },
+        {
+            "name": "CSS common units",
+            "scope": "keyword.other.unit.px.css, keyword.other.unit.em.css, keyword.other.unit.ms.css, keyword.other.unit.s.css, keyword.other.unit.vw.css, keyword.other.unit.vh.css, keyword.other.unit.ch.css, keyword.other.unit.deg.css, keyword.other.unit.turn.css, keyword.other.unit.rem.css",
+            "settings": {
+                "foreground": "#003EAA"
             }
         },
         {

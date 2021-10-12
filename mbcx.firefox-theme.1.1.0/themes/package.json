@@ -1,0 +1,43 @@
+{
+    "name": "firefox-theme",
+    "displayName": "Firefox Theme",
+    "description": "An almost one-to-one recreation of Firefox's DevTools theme",
+    "version": "1.1.0",
+    "publisher": "MBCX",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "author": {
+        "name": "MBCX"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MBCX/firefox-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "light theme",
+        "Firefox",
+        "Firefox DevTools",
+        "Firefox dark",
+        "Firefox light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Firefox Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/firefox-dark.json"
+            },
+            {
+                "label": "Firefox Light",
+                "uiTheme": "vs",
+                "path": "./themes/firefox-light.json"
+            }
+        ]
+    }
+}

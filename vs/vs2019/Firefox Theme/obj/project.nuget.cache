@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52Mh5CBJwoww5xZOREoGWadAXl7cXRHU8cg5l4s/hRwQEBSmgMgcOD1EDbQHeuiCDgLtP3ZhgjaXKk7HYcdSoQ==",
+  "dgSpecHash": "bm9PRPsSOLA3xeWP/fQ72HTJux6ZbWLfqDRswhUqXObRPckSHsnI4ggvz1iOXexoli6ZKxAXeqGpnBbj62fBRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos Brito\\Desktop\\Marcos proyectos\\firefox-theme\\vs\\vs2019\\Firefox Theme\\Firefox Theme.csproj",
+  "projectFilePath": "C:\\Users\\Marcos Brito\\Desktop\\Marcos Folder\\Firefox theme\\firefox-theme\\vs\\vs2019\\Firefox Theme\\Firefox Theme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcos Brito\\.nuget\\packages\\envdte\\8.0.2\\envdte.8.0.2.nupkg.sha512",
     "C:\\Users\\Marcos Brito\\.nuget\\packages\\envdte100\\10.0.3\\envdte100.10.0.3.nupkg.sha512",

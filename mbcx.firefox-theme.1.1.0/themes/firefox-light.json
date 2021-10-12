@@ -29,6 +29,13 @@
             }
         },
         {
+            "name": "Property variables",
+            "scope": "variable.other.property",
+            "settings": {
+                "foreground": "#0074e8"
+            }
+        },
+        {
             "name": "haskell storage type",
             "scope": "storage.type.haskell",
             "settings": {
@@ -1697,7 +1704,6 @@
             "name": "Comments",
             "scope": "comment, punctuation.definition.comment",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#737373"
             }
         },
@@ -1725,7 +1731,8 @@
             "name": "js/ts italic",
             "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": "italic",
+                "foreground": "#0074e8"
             }
         },
         {

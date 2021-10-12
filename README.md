@@ -1,5 +1,5 @@
 <h1 align="center">
-    <strong> Firefox DevTools Colour Theme</strong>s
+    <strong> Firefox DevTools Colour Theme</strong>
 </h1>
 A quite pleasing-to-look at theme. An almost one-to-one recreation of the theme found in Mozilla Firefox's developer tools.
 Intended to work for hours and hours. Try this theme yourself, and you'll never want to go back to other themes (at least I don't.)

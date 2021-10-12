@@ -2,9 +2,6 @@ node_modules
 *.vsix
 vscode/themes/vsc-extension-quickstart.md
 release/
-vscode/themes/.vscode
-vscode/themes/.vscodeignore
-
 
 # Auto generated files by VS2019.
 bin

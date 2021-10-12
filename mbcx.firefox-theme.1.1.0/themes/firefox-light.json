@@ -343,7 +343,7 @@
             "name": "js variable readwrite",
             "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
             "settings": {
-                "foreground": "#e06c75"
+                "foreground": "#0074e8"
             }
         },
         {
@@ -1055,9 +1055,9 @@
         },
         {
             "name": "[VSCODE-CUSTOM] JSON Property Name",
-            "scope": "support.type.property-name.json",
+            "scope": "support.type.property-name.json, punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json",
             "settings": {
-                "foreground": "#e06c75"
+                "foreground": "#003eaa"
             }
         },
         {
@@ -1661,7 +1661,7 @@
             "name": "language operators like '+', '-' etc",
             "scope": ["constant.other.color.rgb-value.xi"],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#0c0c0d"
             }
         },
         {
@@ -1755,10 +1755,17 @@
             "settings": {
                 "fontStyle": "italic"
             }
+        },
+        {
+            "name": "Invalid JSON Token",
+            "scope": "invalid.illegal.expected-dictionary-separator.json",
+            "settings": {
+                "foreground": "#0c0c0d"
+            }
         }
     ],
     "colors": {
-        "foreground": "#ffffff",
+        "foreground": "#1b1b1d",
         "focusBorder": "#0a84ff",
         "selection.background": "#b9d7fd",
         "scrollbar.shadow": "#dddddd00",
@@ -1833,7 +1840,7 @@
         "editor.background": "#ffffff",
         "editor.foreground": "#38383d",
         "editorLineNumber.foreground": "#b1b1b3",
-        "editorCursor.foreground": "#b9d7fd",
+        "editorCursor.foreground": "#0c0c0d",
         "editorCursor.background": "#000000",
         "editor.selectionBackground": "#b9d7fd",
         "editor.inactiveSelectionBackground": "#d2d2d2",
@@ -1865,10 +1872,10 @@
         "editorOverviewRuler.border": "#7f7f7f4d",
         "editorError.foreground": "#d70022",
         "editorError.background": "#B73A3400",
-        "editorError.border": "#ffffff00",
+        "editorError.border": "#ff003905",
         "editorWarning.foreground": "#be9b00",
         "editorWarning.background": "#A9904000",
-        "editorWarning.border": "#ffffff00",
+        "editorWarning.border": "#a47f0005",
         "editorInfo.foreground": "#0060df",
         "editorInfo.background": "#4490BF00",
         "editorInfo.border": "#4490BF00",
@@ -1987,7 +1994,7 @@
         "peekViewTitle.background": "#ffffff",
         "peekViewTitleDescription.foreground": "#616161e6",
         "peekViewTitleLabel.foreground": "#333333",
-        "icon.foreground": "#ffffff",
+        "icon.foreground": "#0c0c0d",
         "checkbox.background": "#ffffff",
         "checkbox.foreground": "#949497",
         "checkbox.border": "#e0e0e2",
@@ -2012,6 +2019,8 @@
         "breadcrumb.activeSelectionForeground": "#4a4a4f",
         "editorGutter.commentRangeForeground": "#878789",
         "debugExceptionWidget.background": "#ffffff",
-        "debugExceptionWidget.border": "#e0e0e2"
+        "debugExceptionWidget.border": "#e0e0e2",
+        "welcomePage.progress.background": "#fafafa",
+        "welcomePage.progress.foreground": "#0060df"
     }
 }

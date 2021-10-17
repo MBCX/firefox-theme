@@ -417,6 +417,27 @@
             }
         },
         {
+            "name": "CSS @media property name",
+            "scope": "support.type.property-name.media.css, support.constant.media.css",
+            "settings": {
+                "foreground": "#058b00"
+            }
+        },
+        {
+            "name": "CSS @media property value",
+            "scope": "meta.at-rule.media.header.css",
+            "settings": {
+                "foreground": "#0060df"
+            }
+        },
+        {
+            "name": "CSS @media 'only' 'and' and 'not'",
+            "scope": "keyword.operator.logical.only.media.css, keyword.operator.logical.and.media.css, keyword.operator.logical.not.media.css",
+            "settings": {
+                "foreground": "#8000d7"
+            }
+        },
+        {
             "name": "js/ts module",
             "scope": "support.module.node,support.type.object.module,support.module.node",
             "settings": {

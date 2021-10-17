@@ -252,7 +252,7 @@
                 "storage.type.object.array.java"
             ],
             "settings": {
-                "foreground": "#8000d7"
+                "foreground": "#ff4aa2"
             }
         },
         {
@@ -266,7 +266,7 @@
             "name": "java modifier.import",
             "scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
             "settings": {
-                "foreground": "#38383d"
+                "foreground": "#ff4aa2"
             }
         },
         {
@@ -435,6 +435,13 @@
             "scope": "keyword.operator.logical.only.media.css, keyword.operator.logical.and.media.css, keyword.operator.logical.not.media.css",
             "settings": {
                 "foreground": "#8000d7"
+            }
+        },
+        {
+            "name": "CSS keyframe values, 'from', 'to' and percentages",
+            "scope": "entity.other.keyframe-offset.css, entity.other.keyframe-offset.percentage.css",
+            "settings":{
+                "foreground": "#0074e8"
             }
         },
         {
@@ -2086,7 +2093,7 @@
         "editorSuggestWidget.background": "#ffffff",
         "editorSuggestWidget.border": "#a0a0a0",
         "editorSuggestWidget.foreground": "#000000",
-        "editorSuggestWidget.highlightForeground": "#ffffff",
+        "editorSuggestWidget.highlightForeground": "#999999",
         "editorSuggestWidget.selectedBackground": "#0074e8",
         "editorHoverWidget.foreground": "#737373",
         "editorHoverWidget.background": "#f9f9fa",
